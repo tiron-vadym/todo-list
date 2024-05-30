@@ -1,4 +1,4 @@
-# Todo list
+# TaskMaster
 
 This project is a todo list management system designed to streamline task organization and improve productivity. It allows users to create, edit, and delete tasks, as well as manage tags to categorize their tasks effectively. The interface features intuitive buttons for easy navigation, enhancing user experience and efficiency. With this tool, users can stay organized and focused on their tasks with ease.
 
